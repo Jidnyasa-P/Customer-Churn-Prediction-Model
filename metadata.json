@@ -1,0 +1,10 @@
+{
+  "name": "ChurnFlow: AI Customer Analytics",
+  "description": "A comprehensive customer churn prediction model and dashboard built for business intelligence and retention strategy simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "Predictive Analytics",
+    "Data Visualization",
+    "Synthetic Data Generation"
+  ]
+}

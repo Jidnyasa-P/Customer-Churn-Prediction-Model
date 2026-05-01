@@ -1,11 +1,42 @@
-<div align="center">
+# Customer Churn Prediction Model
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning)
 
-  <h1>Built with AI Studio</h2>
+## 📌 Overview
+This project focuses on predicting customer churn for a telecommunications company using machine learning techniques. Customer churn refers to when clients stop using a service, and predicting it is critical for improving retention and revenue.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## 🚀 Impact
+- **Retention:** Identify high-risk customers before they leave.
+- **Revenue:** Implement targeted marketing to reduce attrition.
+- **Insights:** Understand behavioral patterns leading to churn.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 🛠️ Tech Stack
+- **Python:** Language
+- **Pandas/NumPy:** Data Manipulation
+- **Scikit-Learn:** Machine Learning (Random Forest, Logistic Regression)
+- **Matplotlib/Seaborn:** Visualization
 
-</div>
+## 📂 Structure
+- `data/`: Raw and processed datasets.
+- `notebooks/`: Jupyter notebooks for EDA and model tuning.
+- `src/`: Python scripts for production-ready code.
+- `models/`: Saved model files (e.g., `.pkl`).
+
+## ⚙️ Installation
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/customer-churn-prediction.git
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the model:
+   ```bash
+   python src/main.py
+   ```
+
+---
+*Created for portfolio purposes. 2026.*
